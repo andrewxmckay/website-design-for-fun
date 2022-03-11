@@ -1,0 +1,141 @@
+body {
+  background-color: black;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: 'MuseoModerno', cursive;
+  color: white;
+  line-height: 1;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+  line-height: 1;
+}
+
+p {
+  font-family: 'MuseoModerno', cursive;
+  color: white;
+  line-height: 2;
+}
+
+a {
+  font-size: 30px;
+  color: black;
+  font-family: 'Bebas Neue', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #E43F5A;
+}
+
+hr {
+  border: dotted white 10px;
+  border-bottom: none;
+  width: 2%;
+  margin: 50px auto;
+}
+
+.top-container {
+  text-align: center;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.middle-container {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  line-height: 1;
+}
+
+.bottom-container {
+  background-color: white;
+  position: relative;
+  padding: 50px 0 20px 0;
+  top: 90px;
+  line-height: 1;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.namecolor {
+  color: #E43F5A;
+}
+
+.codinggif {
+  width: 90%;
+  position: relative;
+  right: 45px;
+}
+
+.webdesignicon {
+  padding-bottom: 20px;
+}
+
+.designtitle {
+  color: #E43F5A;
+}
+
+.dmtitle {
+  color: #E43F5A;
+}
+
+.marketingicon {
+  padding-bottom: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 20px auto 20px auto;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.stack-row {
+  width: 50%;
+  margin: 20px auto 20px auto;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.fa-twitter {
+  color: black;
+  text-decoration: none;
+  font-size: 45px;
+}
+
+.fa-github {
+  color: black;
+  text-decoration: none;
+  font-size: 45px;
+}
+
+.fa-dribbble {
+  color: black;
+  text-decoration: none;
+  font-size: 45px;
+}
+
+.contactme {
+  color: black;
+  text-decoration: none;
+  font-size: 45px;
+}
+
+.copyright {
+  color: black;
+  font-size: 30px;
+}
